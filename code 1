@@ -1,0 +1,25 @@
+Part 1 Code : 
+
+#Input 
+
+# list of numbers
+
+list1 = [7, 11, 0, -47, 54, -73]
+
+  
+
+# using for loop 
+
+for n in list1:
+
+    
+
+  # condition Statement 
+
+  if n >= 0:
+
+    print(n, end = " ,")
+
+# Output 
+
+7 ,11 ,0 ,54
